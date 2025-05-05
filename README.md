@@ -25,7 +25,7 @@ you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/user-attachments/assets/caa2e4f1-88cf-4134-a588-3ce88ce3b6f6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/caa2e4f1-88cf-4134-a588-3ce88ce3b6f6' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
@@ -40,7 +40,7 @@ I encountered difficulty while trying to display the top funded and runner up ga
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Bisma Codepath Prework]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
