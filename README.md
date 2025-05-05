@@ -25,7 +25,7 @@ you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/user-attachments/assets/caa2e4f1-88cf-4134-a588-3ce88ce3b6f6' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src="https://github.com/user-attachments/assets/cad59e83-9ec1-458e-be33-084c3ff7a839" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
